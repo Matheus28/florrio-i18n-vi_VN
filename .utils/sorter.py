@@ -93,11 +93,11 @@ table = {
     'ỵ':'y*5',
     'z':'z*0',
     ' ':' ',
-    '-':' '
+    '-':'-'
 }
 
 def replace_vn_letter(word: str):
-    return ''.join([table[x.lower()] for x in word])
+    return ''.join([(table[x] if x in table else x) for x in word.lower()])
 
 # Func above, driver code below
 
