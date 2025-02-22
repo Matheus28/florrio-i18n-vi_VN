@@ -1,6 +1,3 @@
-import re
-import os
-
 table = {
     'a':'a*0',
     'á':'a*1',
