@@ -95,7 +95,8 @@ table = {
     'ỹ':'y*4',
     'ỵ':'y*5',
     'z':'z*0',
-    ' ':' '
+    ' ':' ',
+    '-':'-'
 }
 
 def replace_vn_letter(word: str):

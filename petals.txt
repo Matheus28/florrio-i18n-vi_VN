@@ -606,3 +606,9 @@ Petals/monstera/FullName=Trầu Bà
 Petals/monstera/SortName=t*0r*0a-2u*0 b*0a*2
 Petals/monstera/Description=Hồi máu cho những bông hoa xung quanh.<n/>Hiệu quả giảm dần dựa trên khoảng cách đến cánh hoa.
 Petals/monstera/Type=leaf
+
+Petals/mecha_antennae/Name=Ăng-ten
+Petals/mecha_antennae/FullName=Ăng-ten
+Petals/mecha_antennae/SortName=a+0n*0g*0-t*0e*0n*0
+Petals/mecha_antennae/Description=Giúp bạn phát giác kẻ thù từ xa.<n/>Nó cũng có đèn đỏ nhấp nháy trên cùng.
+Petals/mecha_antennae/Type=thing1
