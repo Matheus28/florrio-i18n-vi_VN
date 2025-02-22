@@ -107,3 +107,4 @@ Petal/Attribute/MaintenanceManaCost=<c val="{#Colors/generic}">Chi Phí Duy Trì
 Petal/Attribute/ExtraDropChance=<c val="{#Colors/generic}">Có tỉ lệ {0:perc}% để nhận thêm cánh hoa rơi từ quái.</c>
 Petal/Attribute/Reload=<c val="{#Colors/generic}">Thời gian tái tạo:</c> -{0:perc}%
 Petal/Attribute/LockInHel=<c val="{#Colors/danger}">Đối tượng sẽ bị giam ở trong Hel trong vòng {0:time}.</c>
+Petal/Attribute/ControlMechaMissiles=<c val="{#Colors/generic}">Cho phép điều khiển Tên Lửa Máy có cùng độ hiếm hoặc thấp hơn.</c>
