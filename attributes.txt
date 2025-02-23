@@ -44,6 +44,8 @@ Petal/Attribute/Health=<c val="{#Colors/health}">Máu:</c> {0:tooltip}
 Petal/Attribute/Damage=<c val="{#Colors/damage}">Sát Thương:</c> {0:tooltip}
 Petal/Attribute/Damage/Lightning=<c val="{#Colors/damage}">Sát Thương:</c> {0:tooltip} <c val="{#Colors/lightning}">(điện)</c>
 Petal/Attribute/DamageRange=<c val="{#Colors/damage}">Phạm Vi Sát Thương:</c> {0:tooltip}~{1:tooltip}
+Petal/Attribute/DamagePerSecond=<c val="{#Colors/damage}">Sát thương:</c> {0:tooltip}/giây
+Petal/Attribute/DamagePerSecond/Lightning=<c val="{#Colors/damage}">Sát thương:</c> {0:tooltip}/giây <c val="{#Colors/lightning}">(điện)</c>
 Petal/Attribute/Armor=<c val="{#Colors/armor}">Giáp:</c> {0:tooltip}
 Petal/Attribute/RotationSpeed=<c val="{#Colors/generic}">Tốc Độ Quay:</c> +{0:tooltip} rad/giây
 Petal/Attribute/Heal=<c val="{#Colors/heal}">Trị Liệu:</c> {0:tooltip}

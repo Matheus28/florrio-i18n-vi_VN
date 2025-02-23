@@ -612,3 +612,9 @@ Petals/mecha_antennae/FullName=Ăng-ten
 Petals/mecha_antennae/SortName=a+0n*0g*0-t*0e*0n*0
 Petals/mecha_antennae/Description=Giúp bạn phát giác kẻ thù từ xa.<n/>Nó cũng có đèn đỏ nhấp nháy trên cùng.
 Petals/mecha_antennae/Type=thing1
+
+Petals/laser/Name=Laser
+Petals/laser/FullName=Tia Laser
+Petals/laser/SortName=t*0i*0a*0 l*0a*0s*0e*0r*0
+Petals/laser/Description=Chíu chíu.
+Petals/laser/Type=thing1
