@@ -110,3 +110,4 @@ Petal/Attribute/ExtraDropChance=<c val="{#Colors/generic}">Có tỉ lệ {0:perc
 Petal/Attribute/Reload=<c val="{#Colors/generic}">Thời gian tái tạo:</c> -{0:perc}%
 Petal/Attribute/LockInHel=<c val="{#Colors/danger}">Đối tượng sẽ bị giam ở trong Hel trong vòng {0:time}.</c>
 Petal/Attribute/Controls=<c val="{#Colors/generic}">Điều khiển:</c> {#Petals/{0:base}/FullName} ({#Rarities/{0:rarity}/NameColored})
+Petal/Attribute/Broken=<c val="{#Colors/danger}"Bị hỏng.</c>
