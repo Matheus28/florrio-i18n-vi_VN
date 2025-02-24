@@ -232,6 +232,10 @@ UI/UniqueCraft/Button=Rèn
 UI/UniqueCraft/Instructions=Những cánh hoa {#Rarities/unique/Name} sẽ tồn tại cho đến khi<n/>người chơi khác rèn cánh hoa cùng loại.<n/>Khi đó, bạn sẽ được trả lại những cánh hoa {#Rarities/super/Name}.<n/>Chi phí rèn sẽ tăng cho mỗi lần rèn loại cánh hoa đó.
 UI/UniqueCraft/NoSupers=Bạn không có bất kì cánh hoa {#Rarities/super/Name} nào để chế tạo.
 
+UI/AssemblerCraft/Title=Lắp Ráp
+UI/AssemblerCraft/Button=Lắp Ráp
+UI/AssemblerCraft/Instructions=Kết hợp các loại cánh hoa để tạo ra một cánh hoa mới.
+
 UI/Death/Poison=Ngộ độc
 
 UI/Settings/Title=Cài Đặt
