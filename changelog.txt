@@ -2,8 +2,7 @@
 # Date on a line by itself, then all entries for that date are prefixed by a TAB character.
 
 Ngày 23 Tháng 2, 2025
-	- Đã thêm bản đồ Nhà Máy. Vẫn còn nhiều thứ chưa được thêm vào, nhưng nó vẫn đạt tiêu chuẩn để có thể chơi nó.
-	- Added Factory. There's still more things that need to be added, but it's at a point where players can start playing it.
+	- Đã thêm bản đồ Nhà Máy. Vẫn còn nhiều thứ chưa được thêm vào, nhưng nó vẫn đạt tiêu chuẩn để có thể chơi.
 
 Ngày 16 Tháng 1, 2025
 	- Điện thoại đã hỗ trợ Bộ trang bị. Nhấn giữ nút X và bạn có thể thay đổi Bộ trang bị bằng cách nhấn vào dòng trang bị thứ 2. Mỗi Bộ trang bị hiện biểu tượng cho cánh hoa đầu trong Bộ trang bị.
