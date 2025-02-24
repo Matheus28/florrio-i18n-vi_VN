@@ -234,7 +234,7 @@ UI/UniqueCraft/NoSupers=Bạn không có bất kì cánh hoa {#Rarities/super/Na
 
 UI/AssemblerCraft/Title=Lắp Ráp
 UI/AssemblerCraft/Button=Lắp Ráp
-UI/AssemblerCraft/Instructions=Kết hợp các loại cánh hoa để tạo ra một cánh hoa mới.
+UI/AssemblerCraft/Instructions=Gom các cánh hoa thích hợp để lắp ráp một cánh hoa mới.
 
 UI/Death/Poison=Ngộ độc
 

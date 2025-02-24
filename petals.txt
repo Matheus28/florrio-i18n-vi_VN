@@ -597,7 +597,7 @@ Petals/golden_leaf/Type=leaf
 
 Petals/cog/Name=Răng
 Petals/cog/FullName=Bánh Răng
-Petals/cog/SortName=b*0a*1n*0h*0 r*0a+0n*0g*0
+Petals/cog/SortName=r*0a+0n*0g*0
 Petals/cog/Description=Dường như không làm gì cả...
 Petals/cog/Type=thing1
 
@@ -615,6 +615,6 @@ Petals/mecha_antennae/Type=thing1
 
 Petals/laser/Name=Laser
 Petals/laser/FullName=Tia Laser
-Petals/laser/SortName=t*0i*0a*0 l*0a*0s*0e*0r*0
+Petals/laser/SortName=l*0a*0s*0e*0r*0
 Petals/laser/Description=Chíu chíu.
 Petals/laser/Type=thing1
