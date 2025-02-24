@@ -370,5 +370,5 @@ Mobs/assembler/Name=Thợ Lắp Ráp
 Mobs/assembler/Description=
 
 Mobs/barrel/Name=Thùng
-Mobs/barrel/Description=Dù trong bất kỳ hoàn cảnh nào cũng không được để thứ này đổ ra. Chúng ta không thể mạo hiểm với một con côn trùng đột biến nữa trong tháng này.
+Mobs/barrel/Description=Dù trong bất kỳ hoàn cảnh nào cũng không được để thứ này đổ ra.<n/>Chúng ta không thể mạo hiểm với một con côn trùng đột biến nữa trong tháng này.
 Mobs/barrel/Type=static

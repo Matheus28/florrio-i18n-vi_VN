@@ -1,7 +1,11 @@
 # The format for this file is different
 # Date on a line by itself, then all entries for that date are prefixed by a TAB character.
 
-Ngày 16 tháng 1, 2025
+Ngày 23 Tháng 2, 2025
+	- Đã thêm bản đồ Nhà Máy. Vẫn còn nhiều thứ chưa được thêm vào, nhưng nó vẫn đạt tiêu chuẩn để có thể chơi nó.
+	- Added Factory. There's still more things that need to be added, but it's at a point where players can start playing it.
+
+Ngày 16 Tháng 1, 2025
 	- Điện thoại đã hỗ trợ Bộ trang bị. Nhấn giữ nút X và bạn có thể thay đổi Bộ trang bị bằng cách nhấn vào dòng trang bị thứ 2. Mỗi Bộ trang bị hiện biểu tượng cho cánh hoa đầu trong Bộ trang bị.
 	- Để tải Bộ trang bị trên bàn phím, nhấn giữ L+phím_số, hoặc K+phím_số cho các Bộ trang bị thứ 2.
 	- Đã thay đổi cách thức lưu Bộ trang bị. Nếu đã bật "Tự động lưu Bộ trang bị", chúng sẽ tự động được lưu ngay khi thay đổi Bộ trang bị. Nếu đang tắt, bạn cần phải nhấn nút O để lưu Bộ trang bị hiện tại.
