@@ -17,6 +17,8 @@ Mob/Attribute/HealthRange=<c val="{#Colors/health}">Phạm Vi Máu:</c> {0:toolt
 Mob/Attribute/HealthNoColon=<c val="{#Colors/health}">Máu</c>
 Mob/Attribute/Damage=<c val="{#Colors/damage}">Sát Thương:</c> {0:tooltip}
 Mob/Attribute/Damage/Lightning=<c val="{#Colors/damage}">Sát Thương:</c> {0:tooltip} <c val="{#Colors/lightning}">(điện)</c>
+Mob/Attribute/DamagePerSecond=<c val="{#Colors/damage}">Sát Thương:</c> {0:tooltip}/giây
+Mob/Attribute/DamagePerSecond/Lightning=<c val="{#Colors/damage}">Sát Thương:</c> {0:tooltip}/giây <c val="{#Colors/lightning}">(điện)</c>
 Mob/Attribute/Armor=<c val="{#Colors/armor}">Giáp:</c> {0:tooltip}
 Mob/Attribute/Poison=<c val="{#Colors/poison}">Độc:</c> {0:tooltip} ({1:tooltip}/giây)
 Mob/Attribute/PoisonPerSecond=<c val="{#Colors/poison}">Độc:</c> {0:tooltip}/giây
