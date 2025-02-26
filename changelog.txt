@@ -214,16 +214,16 @@ Ngày 29 Tháng 12, 2022
 	- Như một sự kiện đặc biệt, chúng tôi sẽ ra mắt một chế độ chơi mà một số bạn có thể thấy quen thuộc. Chúc các bạn chơi vui vẻ!
 	- Một số cánh hoa triệu hồi bị vô hiệu hóa trên bản đồ chính của chế độ này (nhưng vẫn có thể sử dụng trong tổ kiến). Đáng tiếc, điều này đã bị lạm dụng quá mức.
 
-December 28th 2022
-	- We're experimenting with a HUGE rebalancing of the entire game. We've reset everyone's waves for this. Please be patient while we tweak things to get everything perfect
-	- The idea is increasing the gap between rarities. Such that if you have unusual petals, a rare mob actually presents a bigger challenge. Before this update, there wasn't really enough distinction between lower mob rarities.
+Ngày 28 Tháng 12, 2022
+	- Chúng tôi đang thử nghiệm một đợt cân bằng lại RẤT LỚN cho toàn bộ trò chơi. Vì điều này, chúng tôi đã đặt lại tất cả các đợt cao nhất của người chơi. Hãy kiên nhẫn khi chúng tôi điều chỉnh để mọi thứ trở nên hoàn hảo!
+	- Ý tưởng của chúng tôi là tăng khoảng cách giữa các độ hiếm. Như vậy, nếu bạn có cánh hoa Ít Gặp, một con quái Hiếm Gặp sẽ thực sự là một thử thách lớn hơn. Trước bản cập nhật này, sự khác biệt giữa các cấp độ hiếm của quái chưa thực sự rõ ràng.
 
-December 26th 2022
-	- Added chat.
-	- Added damage numbers, toggleable in the settings (default on).
-	- Petal tooltips values now update correctly to match values after taking talents into account.
-	- Added more Medic talent tiers.
-	- Removed luck talent, anyone who owned it has been refunded.
+Ngày 26 Tháng 12, 2022
+	- Đã thêm tính năng trò chuyện.
+	- Sát thương giờ sẽ hiện số, có thể tắt/mở trong phần cài đặt (mở ở mặc định).
+	- Thông tin của cánh hoa sẽ được cập nhật đúng chính xác theo Thiên Phú bạn có.
+	- Đã thêm nhiều cấp độ Bác Sĩ trong nhánh cây Thiên Phú.
+	- Loại bỏ Thiên Phú May Mắn, những ai từng có nó sẽ được hoàn trả TP.
 
 Ngày 20 Tháng 12, 2022
 	- Chúng tôi đã thêm nền cho Sa Mạc. Những bản đồ khác cũng sẽ có sớm thôi. Hãy kiểm tra máy chủ Discord để biết thêm về cuộc thi!
@@ -241,14 +241,14 @@ Ngày 30 Tháng 11, 2022
 	- Since many people have spent their TP without realizing how permanent they are, we will be doing a future update (in late December) in which players can reset their TP mỗi lần trong năm.
 	- Chúng tôi sẽ thêm vài thứ để người chơi tiêu TP.
 
-November 29th 2022
-	- The long awaited talents update is here.
-	- Killing mobs no longer awards XP. We have reset everyone's levels back to 1 as this update significantly changes how levels are acquired.
-	- Petals can now be absorbed to earn XP.
-	- Advancing levels provides TP, which can be used to upgrade talents.
-	- talents have a permanent effect on your flower. Once upgraded they're unlocked forever. There is no way to undo TP spent on talents.
-	- We may change the formula of XP required on each level. If so, we'll adjust everyone's levels to match the new formula (and award or take back any TP).
-	- Level cap has been raised to 200.
+Ngày 29 Tháng 11, 2022
+	- Cập nhật về Thiên Phú đã đến
+	- Tiêu diệt quái sẽ không còn nhận được XP nữa. Chúng tôi đã cài lại cấp độ của người chơi về 1 cũng như là sự thay đổi đáng kể về cách thức mà cấp độ hoạt động.
+	- Hấp Thụ các cánh hoa để tăng XP.
+	- Tăng cấp độ sẽ nhận thêm TP, nó sẽ cho bạn điểm tăng cấp trong Thiên Phú.
+	- Thiên Phú sẽ có tác dụng vĩnh viễn lên Hoa của bạn. Một khi đã tăng cấp chúng thì chúng sẽ mở khóa vĩnh viễn. Không có cách nào để hoàn lại TP đã dùng. 
+	- Chúng tôi có thể sẽ thay đổi lượng kinh nghiệm cần thiết cho mỗi cấp. Nếu thế, chúng tôi sẽ chỉnh lại cấp độ của mọi người sao cho phù hợp với công thức mới (thêm hoặc mất bất kì TP nào).
+	- Giới hạn cấp độ được tăng lên đến 200.
 
 Ngày 15 Tháng 11, 2022
 	- Giảm máu của Ong Vò Vẽ.
@@ -400,26 +400,26 @@ Ngày 18 Tháng 7, 2022
 	- Muối có thể chồng hiệu quả lên nhau. Phản sát thương giảm khi đối đầu với các Hoa khác.
 	- Độ giảm tốc độ của Mạng nhện giảm từ -75% còn -50%.
 
-July 16th 2022
-	- Next wave will now start once current wave has 4 or fewer mobs alive.
-	- Mob aggro range now constantly increases while they're alive.
-	- Rarer mobs now give more experience as intended
-	- Level experience requirements have been increased to compensate
+Ngày 16 Tháng 7, 2022
+	- Đợt quái kế tiếp sẽ bắt đầu khi đợi hiện tại có 4 con quái đang sống hoặc ít hơn.
+	- Phạm vị gây hấn của quái sẽ tăng dần khi nó còn sống.
+	- Những con quái có độ hiếm càng cao sẽ cho càng nhiều kinh nghiệm.
+	- Yêu cầu về kinh nghiệm mỗi cấp độ đã được tăng lên để bù đắp.
 
-July 15th 2022
-	- Released Desert scenario.
+Ngày 15 Tháng 7, 2022
+	- Đã phát hành bản đồ Sa mạc.
 
 Ngày 14 Tháng 7, 2022
 	- Quản lý Túi đồ trong trò chơi đã được đơn giản hoá, bây giờ chỉ có thể đổi các cánh hoa trong mỗi ô của Bộ trang bị chính và phụ.
 
-July 13th 2022
-	- Ant holes can now be of higher rarities again, but only the queen will be above Rare.
-	- Petals now have a Mythic rarity. It does not drop from mobs, only available via crafting.
+Ngày 13 Tháng 7, 2022
+	- Tổ kiến bây giờ có thể có độ hiếm cao hơn Hiếm Gặp, nhưng kiến chúa sẽ cao hơn Hiếm Gặp.
+	- Cánh hoa bây giờ có độ hiếm Huyền Thoại. Nó không thể rơi ra từ quái, chỉ có thể tồn tại thông qua chế tạo.
 
-July 12th 2022
-	- Mobs can now only drop petals up to 1 rarity level above themselves
-	- Ant holes can no longer have a rarity higher than Rare
-	- Added Craft All button, hold SHIFT before clicking the Craft button
+Ngày 12 Tháng 7, 2022
+	- Quái bây giờ chỉ có thể rơi ra cánh hoa có độ hiếm cao hơn một cấp
+	- Tổ kiến bây giờ không còn có độ hiếm cao hơn Hiếm Gặp
+	- Đã thêm vào nút Chế tạo tất cả, giữ SHIFT trước khi nhấn vào nút Chế tạo
 
-July 11th 2022
-	- The game has been re-released. It's nothing like it was before, so might as well clear this changelog too :)
+Ngày 11 Tháng 7, 2022
+	- Trò chơi đã được tái phát hành. Nó không còn như trước nữa, nên chắc cũng xoá luôn nhật ký thay đổi này luôn vậy :)
