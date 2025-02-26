@@ -70,6 +70,10 @@ UI/Flower/Level=Cấp {0}
 UI/Damage/Evade=Vô hiệu
 UI/Damage/Miss=Trượt
 
+UI/Dummy/Last=Mới nhất: {0:tooltip}
+UI/Dummy/Total=Tổng: {0:tooltip}
+UI/Dummy/DPS=DPS: {0:tooltip}
+
 UI/Death/Title=Bạn vừa bị tiêu diệt bởi:
 UI/Death/NoSource=Một thực thể bí ẩn
 UI/Death/Continue=Tiếp tục
@@ -90,8 +94,10 @@ UI/Achievements/TotalProgress=Đã hoàn thành {0}/{1}
 UI/Achievements/UnlockedNotification=Đã mở khoá thành công
 
 UI/MobGallery/Title=Trưng Bày
+
 UI/Changelog/Title=Lịch Sử Cập Nhật
 UI/Changelog/Bottom=Không có lịch sử cũ hơn
+
 UI/Inventory/Title=Túi Đồ
 UI/Inventory/Stack=Xếp chồng
 UI/Inventory/Instructions=Kéo thả cánh hoa để trang bị

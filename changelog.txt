@@ -4,6 +4,10 @@
 Ngày 23 Tháng 2, 2025
 	- Đã thêm bản đồ Nhà Máy. Vẫn còn nhiều thứ chưa được thêm vào, nhưng nó vẫn đạt tiêu chuẩn để có thể chơi.
 
+Ngày 6 Tháng 2, 2025
+	- Trứng bây giờ chỉ sinh ra quái khi vỡ.
+	- Bão cát bây giờ xuyên qua các thực thể không phải hoa (vẫn gây sát thương như bình thường).
+
 Ngày 16 Tháng 1, 2025
 	- Điện thoại đã hỗ trợ Bộ trang bị. Nhấn giữ nút X và bạn có thể thay đổi Bộ trang bị bằng cách nhấn vào dòng trang bị thứ 2. Mỗi Bộ trang bị hiện biểu tượng cho cánh hoa đầu trong Bộ trang bị.
 	- Để tải Bộ trang bị trên bàn phím, nhấn giữ L+phím_số, hoặc K+phím_số cho các Bộ trang bị thứ 2.
