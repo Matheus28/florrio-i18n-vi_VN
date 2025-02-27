@@ -194,12 +194,12 @@ Chat/Oracle/Prediction/0=À đúng rồi, lời tiên tri... nó sắp xảy ra 
 Chat/Oracle/Prediction/1=Nó đã được tiên đoán, đây là khoảnh khắc...
 Chat/Oracle/Prediction/2=Ta đã chờ điều này rất lâu rồi...
 
-Chat/Oracle/ShopPrediction/No=The future is too cloudy to tell
-Chat/Oracle/ShopPrediction/Distance0=It is imminent
-Chat/Oracle/ShopPrediction/Distance1=Soon
-Chat/Oracle/ShopPrediction/Distance2=Eventually
-Chat/Oracle/ShopPrediction/Distance3=Perhaps some futures are just indeterminate
-Chat/Oracle/ShopPrediction/Request=Oracle, oracle, make me a prediction about {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/FullName}
+Chat/Oracle/ShopPrediction/No=Tương lai quá mờ mịt để nhìn thấu
+Chat/Oracle/ShopPrediction/Distance0=Nó sắp xảy ra
+Chat/Oracle/ShopPrediction/Distance1=Sớm thôi
+Chat/Oracle/ShopPrediction/Distance2=Rồi sẽ xảy ra thôi
+Chat/Oracle/ShopPrediction/Distance3=Có lẽ một số tương lai không thể nhìn thấu được.
+Chat/Oracle/ShopPrediction/Request=Nhà tiên tri, nhà tiên tri, hãy đưa ra một lời tiên đoán về {#Petals/{0:base}/FullName} {#Rarities/{0:rarity}/Name}
 
 # Target dummy says these 4 lines 1 second apart after getting damaged a lot
 Chat/TargetDummy/Damaged/1=Ui da
