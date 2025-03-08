@@ -550,7 +550,7 @@ Petals/magic_bubble/Type=sphere
 Petals/nazar/Name=Nazar
 Petals/nazar/SortName=n*0a*0z*0a*0r*0
 Petals/nazar/FullName=Bùa Nazar
-Petals/nazar/Description=Giảm 98% sát thương của một đòn.
+Petals/nazar/Description=Giảm 98% sát thương của mỗi đòn.
 Petals/nazar/Type=thing1
 
 Petals/mimic/Name=Mạo Danh
@@ -618,3 +618,9 @@ Petals/laser/FullName=Tia Laser
 Petals/laser/SortName=l*0a*0s*0e*0r*0
 Petals/laser/Description=Chíu chíu.
 Petals/laser/Type=thing1
+
+Petals/domino/Name=Domino
+Petals/domino/SortName=d*0o*0m*0i*0n*0o*0
+Petals/domino/FullName=Domino
+Petals/domino/Description=Sát thương dựa trên số chấm nó có.
+Petals/domino/Type=
