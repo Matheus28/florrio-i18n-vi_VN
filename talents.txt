@@ -1,5 +1,5 @@
 Talents/crafting/Name=Chế Tạo
-Talents/crafting/Description=Mở khóa kỹ năng chế tạo cánh hoa <c val="{0:rarity:color}">{#Rarities/{0:rarity}/Name}</c>
+Talents/crafting/Description=Mở khóa kỹ năng chế tạo cánh hoa <c val="{#Colors/{0:rarity}}">{#Rarities/{0:rarity}/Name}</c> 
 
 Talents/crafting_unusual/Name={#Talents/crafting/Name}
 Talents/crafting_unusual/Description={#Talents/crafting/Description}
