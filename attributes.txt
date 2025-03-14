@@ -85,7 +85,7 @@ Petal/Attribute/SelfDamage=<c val="{#Colors/damage}">Sát Thương Lên Bản Th
 Petal/Attribute/ArmorDebuff=<c val="{#Colors/armor}">Giảm Giáp:</c> {0:tooltip}
 Petal/Attribute/FlowerArmor=<c val="{#Colors/armor}">Giáp Của Hoa:</c> {0:tooltip}
 Petal/Attribute/FlowerEvasion=<c val="{#Colors/generic}">Khả Năng Tránh Đòn:</c> +{0:perc}%
-Petal/Attribute/Charges=<c val="{#Colors/generic}">Phóng Điện:</c> {0:tooltip}
+Petal/Attribute/Charges=<c val="{#Colors/generic}">Lượt Dùng:</c> {0:tooltip}
 Petal/Attribute/OverhealConversion=<c val="{#Colors/generic}">Chuyển Đổi Trị liệu Dư Thừa:</c> +{0:perc}%
 Petal/Attribute/AffectedByMagnets=<c val="{#Colors/generic}">Bị ảnh hưởng bởi Nam Châm</c>
 Petal/Attribute/CanFindSquares=<c val="{#Colors/generic}">Có thể tìm thấy những thực thể kì lạ</c>
@@ -112,4 +112,4 @@ Petal/Attribute/ExtraDropChance=<c val="{#Colors/generic}">Có tỉ lệ {0:perc
 Petal/Attribute/Reload=<c val="{#Colors/generic}">Thời gian tái tạo:</c> -{0:perc}%
 Petal/Attribute/LockInHel=<c val="{#Colors/danger}">Đối tượng sẽ bị giam ở trong Hel trong vòng {0:time}.</c>
 Petal/Attribute/Controls=<c val="{#Colors/generic}">Điều khiển:</c> {#Petals/{0:base}/FullName} ({#Rarities/{0:rarity}/NameColored})
-Petal/Attribute/Broken=<c val="{#Colors/danger}"Bị hỏng.</c>
+Petal/Attribute/Broken=<c val="{#Colors/danger}">Bị hỏng.</c>
