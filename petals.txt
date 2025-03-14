@@ -618,3 +618,9 @@ Petals/laser/FullName=Tia Laser
 Petals/laser/SortName=l*0a*0s*0e*0r*0
 Petals/laser/Description=Chíu chíu.
 Petals/laser/Type=thing1
+
+Petals/domino/Name=Domino
+Petals/domino/FullName=Domino
+Petals/laser/SortName=d*0o*0m*0i*0n*0o*0
+Petals/domino/Description=Sát thương dựa trên số nút nó có.
+Petals/laser/Type=thing1
