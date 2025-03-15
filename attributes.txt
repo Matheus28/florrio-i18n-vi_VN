@@ -42,6 +42,8 @@ Mob/Attribute/Lightning=<c val="{#Colors/lightning}">Điện:</c> {0:tooltip}
 Mob/Attribute/Bounces=<c val="{#Colors/generic}">Số Lần Nảy:</c> {0:tooltip}
 Mob/Attribute/Evasion=<c val="{#Colors/generic}">Khả Năng Tránh Đòn:</c> {0:perc}%
 
+# Petal/Attribute/Reload is duplicated, this is a placeholder
+Petal/Attribute/NumCopies=<c val="{#Colors/generic}">Số Bản Sao:</c> {0:tooltip}
 Petal/Attribute/Health=<c val="{#Colors/health}">Máu:</c> {0:tooltip}
 Petal/Attribute/Damage=<c val="{#Colors/damage}">Sát Thương:</c> {0:tooltip}
 Petal/Attribute/Damage/Lightning=<c val="{#Colors/damage}">Sát Thương:</c> {0:tooltip} <c val="{#Colors/lightning}">(điện)</c>

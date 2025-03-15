@@ -257,7 +257,7 @@ Talents/concentrated_poison/Name=Cực Độc
 Talents/concentrated_poison/Description=Tăng {0:perc}% sát thương {#Attribute/PoisonNoColon} mỗi giây.<n/>Giảm {1:perc}% thời gian duy trì {#Attribute/PoisonNoColon}.
 
 Talents/duplicator/Name=Nhân Bản
-Talents/duplicator/Description=Thêm một nhân bản vào cánh hoa nếu cánh hoa đó có ít nhất {0:tooltip} nhân bản.
+Talents/duplicator/Description=Thêm một bản sao vào cánh hoa nếu cánh hoa đó có ít nhất {0:tooltip} bản sao.
 
 Talents/antennae1/Name=Râu
 Talents/antennae1/Description=Tăng {0:perc}% tầm nhìn.
