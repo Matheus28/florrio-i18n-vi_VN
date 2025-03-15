@@ -42,7 +42,7 @@ Mob/Attribute/Lightning=<c val="{#Colors/lightning}">Điện:</c> {0:tooltip}
 Mob/Attribute/Bounces=<c val="{#Colors/generic}">Số Lần Nảy:</c> {0:tooltip}
 Mob/Attribute/Evasion=<c val="{#Colors/generic}">Khả Năng Tránh Đòn:</c> {0:perc}%
 
-# Petal/Attribute/Reload is duplicated, this is a placeholder
+Petal/Attribute/Reload=<c val="{#Colors/generic}">Thời gian tái tạo:</c> {0}
 Petal/Attribute/NumCopies=<c val="{#Colors/generic}">Số Bản Sao:</c> {0:tooltip}
 Petal/Attribute/Health=<c val="{#Colors/health}">Máu:</c> {0:tooltip}
 Petal/Attribute/Damage=<c val="{#Colors/damage}">Sát Thương:</c> {0:tooltip}
@@ -111,7 +111,7 @@ Petal/Attribute/LightningPerMana=<c val="{#Colors/lightning}">Điện:</c> {0:to
 Petal/Attribute/SpawnManaCost=<c val="{#Colors/generic}">Chi Phí Triệu Hồi:</c> {0:tooltip} <c val="{#Colors/mana}">Năng Lượng</c>
 Petal/Attribute/MaintenanceManaCost=<c val="{#Colors/generic}">Chi Phí Duy Trì:</c> {0:tooltip} <c val="{#Colors/mana}">Năng Lượng</c>/giây
 Petal/Attribute/ExtraDropChance=<c val="{#Colors/generic}">Có tỉ lệ {0:perc}% để nhận thêm cánh hoa rơi từ quái.</c>
-Petal/Attribute/Reload=<c val="{#Colors/generic}">Thời gian tái tạo:</c> -{0:perc}%
+Petal/Attribute/ReloadPerc=<c val="{#Colors/generic}">Thời gian tái tạo:</c> -{0:perc}%
 Petal/Attribute/LockInHel=<c val="{#Colors/danger}">Đối tượng sẽ bị giam ở trong Hel trong vòng {0:time}.</c>
 Petal/Attribute/Controls=<c val="{#Colors/generic}">Điều khiển:</c> {#Petals/{0:base}/FullName} ({#Rarities/{0:rarity}/NameColored})
 Petal/Attribute/Broken=<c val="{#Colors/danger}">Bị hỏng.</c>
