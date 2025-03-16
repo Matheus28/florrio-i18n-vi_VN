@@ -372,3 +372,7 @@ Mobs/assembler/Description=
 Mobs/barrel/Name=Thùng
 Mobs/barrel/Description=Dù trong bất kỳ hoàn cảnh nào cũng không được để thứ này tràn ra.<n/>Chúng ta không thể gây nguy cơ tạo thêm côn trùng đột biến nữa trong tháng này.
 Mobs/barrel/Type=static
+
+Mobs/beetle_mummy/Name=Bọ Cánh Cứng
+Mobs/beetle_mummy/SortName=b*0o*5 c*0a*1n*0h*0 c*0u+1n*0g*0
+Mobs/beetle_mummy/Description=Có vẻ như con này không nên còn sống nữa...

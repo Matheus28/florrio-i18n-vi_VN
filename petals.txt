@@ -624,3 +624,8 @@ Petals/domino/FullName=Domino
 Petals/domino/SortName=d*0o*0m*0i*0n*0o*0
 Petals/domino/Description=Sát thương dựa trên số chấm nó có.
 Petals/domino/Type=thing1
+
+Petals/bandage/Name=Băng
+Petals/bandage/FullName=Băng Cấp Cứu
+Petals/bandage/SortName=b*0a+0n*0g*0 c*0a-1p*0 c*0u+1u*0
+Petals/bandage/Description=Biến bông hoa thành <c val="{#Colors/undead}">Xác Sống</c> trong một khoảng thời gian nhất định sau khi chết.<n/>Ngăn chặn việc hồi sinh trong một khoảng thời gian sau đó.

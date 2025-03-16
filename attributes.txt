@@ -41,6 +41,7 @@ Mob/Attribute/Lifesteal=<c val="{#Colors/heal}">Hút Máu:</c> {0:tooltip}
 Mob/Attribute/Lightning=<c val="{#Colors/lightning}">Điện:</c> {0:tooltip}
 Mob/Attribute/Bounces=<c val="{#Colors/generic}">Số Lần Nảy:</c> {0:tooltip}
 Mob/Attribute/Evasion=<c val="{#Colors/generic}">Khả Năng Tránh Đòn:</c> {0:perc}%
+Mob/Attribute/UndeadDuration=<c val="{#Colors/undead}">Xác Sống:</c> {0:tooltipTime}
 
 Petal/Attribute/Reload=<c val="{#Colors/generic}">Thời gian tái tạo:</c> {0}
 Petal/Attribute/NumCopies=<c val="{#Colors/generic}">Số Bản Sao:</c> {0:tooltip}
@@ -61,6 +62,7 @@ Petal/Attribute/PoisonResistance=<c val="{#Colors/poison}">Kháng Độc:</c> {0
 Petal/Attribute/FlowerHealth=<c val="{#Colors/health}">Máu Bông Hoa:</c> {0:tooltip}
 Petal/Attribute/FlowerHealthPerc=<c val="{#Colors/health}">Máu Bông Hoa:</c> +{0:perc}%
 Petal/Attribute/Duration=<c val="{#Colors/duration}">Thời Gian Duy Trì:</c> {0:tooltipTime}
+Petal/Attribute/Duration2=<c val="{#Colors/duration}">Thời Gian:</c> {0:tooltipTime} + {1:tooltipTime}
 Petal/Attribute/Contents=<c val="{#Colors/generic}">Chứa:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
 Petal/Attribute/ExtraVision=<c val="{#Colors/generic}">Tầm Nhìn Thêm:</c> {0:perc}%
 Petal/Attribute/Radius=<c val="{#Colors/generic}">Bán Kính:</c> {0:tooltip}
@@ -115,3 +117,5 @@ Petal/Attribute/ReloadPerc=<c val="{#Colors/generic}">Thời gian tái tạo:</c
 Petal/Attribute/LockInHel=<c val="{#Colors/danger}">Đối tượng sẽ bị giam ở trong Hel trong vòng {0:time}.</c>
 Petal/Attribute/Controls=<c val="{#Colors/generic}">Điều khiển:</c> {#Petals/{0:base}/FullName} ({#Rarities/{0:rarity}/NameColored})
 Petal/Attribute/Broken=<c val="{#Colors/danger}">Bị hỏng.</c>
+Petal/Attribute/UndeadDuration=<c val="{#Colors/undead}">Xác Sống:</c> {0:tooltipTime}
+Petal/Attribute/UnrevivableDuration=<c val="{#Colors/danger}">Không Thể Hồi Sinh:</c> {0:tooltipTime}
