@@ -18,6 +18,8 @@ Maps/jungle/Name=Rừng Rậm
 
 Maps/ocean/Name=Đại Dương
 
+Maps/pyramid/Name=Kim Tự Tháp
+
 Maps/sewers/Name=Cống Rãnh
 
 Maps/worm/Name=Giun
