@@ -32,6 +32,14 @@ Classify/Petal/seed= hạt
 Classify/Petal/tubber= củ
 Classify/Petal/leaf= chiếc
 
+Chat/PetalFoundUnnamed={#Chat/PetalFoundUnnamed/{0:base}#Chat/PetalFoundUnnamed/generic}
+Chat/PetalFoundNamed={#Chat/PetalFoundNamed/{0:base}#Chat/PetalFoundNamed/generic}
+Chat/PetalFoundUnnamed/generic={#Petals/AnnouncementPrefix:0} has been found!
+Chat/PetalFoundNamed/generic={#Petals/AnnouncementPrefix:0} has been found by {1}!
+
+Chat/PetalFoundUnnamed/crown=The {#Petals/{0:base}/FullName} has been stolen!
+Chat/PetalFoundNamed/crown=The {#Petals/{0:base}/FullName} has been stolen by {1}!
+
 Chat/MobSpawnedHere={#Mobs/{0:base}/Spawn#Chat/MobSpawnedHere/Text}
 Chat/MobSpawnedSomewhere={#Mobs/{0:base}/Spawn#Chat/MobSpawnedSomewhere/Text}
 

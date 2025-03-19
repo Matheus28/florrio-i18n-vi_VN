@@ -193,6 +193,8 @@ UI/Mob/Description={#Mobs/{0:base}/Description}
 UI/Mob/Rarity={#Rarities/{0:rarity}/Name}
 
 UI/Map/Name={#Maps/{0}/Name}
+UI/Map/Changing={#Maps/{0}/Changing#UI/Map/Changing/generic}
+UI/Map/Changing/generic=Something is happening...
 
 UI/Achievements/Name={#Achievements/{0}/Name:1-}
 UI/Achievements/SortName={#Achievements/{0}/Name:1-}
