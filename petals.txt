@@ -628,7 +628,7 @@ Petals/domino/Type=thing1
 Petals/bandage/Name=Băng
 Petals/bandage/FullName=Băng Cấp Cứu
 Petals/bandage/SortName=b*0a+0n*0g*0 c*0a-1p*0 c*0u+1u*0
-Petals/bandage/Description=Biến bông hoa thành <c val="{#Colors/undead}">Xác Sống</c> trong một khoảng thời gian nhất định sau khi chết.<n/>Ngăn chặn việc hồi sinh trong một khoảng thời gian sau đó.
+Petals/bandage/Description=Biến bông hoa thành <c val="{#Colors/undead}">Xác Sống</c> trong một khoảng thời gian nhất định sau khi chết.<n/>Trì hoãn cái chết cho đến khi hết hạn<n/>Ngăn chặn việc hồi sinh trong một khoảng thời gian sau đó.
 Petals/bandage/Type=thing1
 
 Petals/crown/Name=Vương Miện
