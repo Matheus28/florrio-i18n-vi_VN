@@ -10,11 +10,11 @@ Chat/PetalCraftedNamed/not-unique={#Petals/AnnouncementPrefix:0} đã được c
 
 Chat/PetalFoundUnnamed={#Chat/PetalFoundUnnamed/{0:base}#Chat/PetalFoundUnnamed/generic}
 Chat/PetalFoundNamed={#Chat/PetalFoundNamed/{0:base}#Chat/PetalFoundNamed/generic}
-Chat/PetalFoundUnnamed/generic={#Petals/AnnouncementPrefix:0} has been found!
-Chat/PetalFoundNamed/generic={#Petals/AnnouncementPrefix:0} has been found by {1}!
+Chat/PetalFoundUnnamed/generic={#Petals/AnnouncementPrefix:0} đã được tìm thấy!
+Chat/PetalFoundNamed/generic={#Petals/AnnouncementPrefix:0} đã được tìm thấy bởi {1}!
 
-Chat/PetalFoundUnnamed/crown=The {#Petals/{0:base}/FullName} has been stolen!
-Chat/PetalFoundNamed/crown=The {#Petals/{0:base}/FullName} has been stolen by {1}!
+Chat/PetalFoundUnnamed/crown=The {#Petals/{0:base}/FullName} đã bị lấy cắp!
+Chat/PetalFoundNamed/crown=The {#Petals/{0:base}/FullName} đã bị lấy cắp bởi {1}!
 
 Chat/MobSpawnedHere={#Mobs/{0:base}/Spawn#Chat/MobSpawnedHere/Text}
 Chat/MobSpawnedSomewhere={#Mobs/{0:base}/Spawn#Chat/MobSpawnedSomewhere/Text}
