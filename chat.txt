@@ -1,5 +1,5 @@
-Mobs/AnnouncementPrefix=Một{#Mobs/{0:base}/Type} {#Mobs/{0:base}/Name} {#Rarities/{0:rarity}/Name}
-Petals/AnnouncementPrefix=Một{#Petals/{0:base}/Type} {#Petals/{0:base}/FullName} {#Rarities/{0:rarity}/Name}
+Mobs/AnnouncementPrefix=Một{#Mobs/{0:base}/Clf} {#Mobs/{0:base}/Name} {#Rarities/{0:rarity}/Name}
+Petals/AnnouncementPrefix=Một{#Petals/{0:base}/Clf} {#Petals/{0:base}/FullName} {#Rarities/{0:rarity}/Name}
 
 Chat/PetalCraftedUnnamed={#Chat/PetalCraftedUnnamed/{0:rarity:is-unique}}
 Chat/PetalCraftedNamed={#Chat/PetalCraftedNamed/{0:rarity:is-unique}}
