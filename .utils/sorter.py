@@ -77,11 +77,5 @@ table = {
     '-':'-'
 }
 
-def replace_vn_letter(word: str):
-    return ''.join([table.get(x, x+"*0") for x in word.lower()])
-
-# Func above, driver code below
-
-while True:
-    word = input("Type a word you need to convert:")
-    print(replace_vn_letter(word))
+while 1:
+    print(''.join([table.get(x, x+"*0") for x in input("Type a word you need to convert:").lower()]))
