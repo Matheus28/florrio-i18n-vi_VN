@@ -29,7 +29,7 @@ Achievements/6/ExtraDescription=Sử dụng điểm Thiên phú mới bạn vừ
 
 Achievements/7/Name=Hướng dẫn
 Achievements/7/Description=Thu thập thêm cánh hoa.
-Achievements/7/ExtraDescription=Bây giờ chúng ta cần thu thập {0} cánh hoa {#Rarities/{1}/NameColored} cùng loại để chế tạo {#Rarities/{2}/Article} cánh hoa {#Rarities/{2}/NameColored}.<n/>Tiếp tục tiêu diệt các con côn trùng để thu thập thêm thêm cánh hoa.
+Achievements/7/ExtraDescription=Bây giờ chúng ta cần thu thập {0} cánh hoa {#Rarities/{1}/NameColored} cùng loại để chế tạo một cánh hoa {#Rarities/{2}/NameColored}.<n/>Tiếp tục tiêu diệt các con côn trùng để thu thập thêm thêm cánh hoa.
 
 Achievements/8/Name=Hướng dẫn
 Achievements/8/Description=Chế tạo một cánh hoa.
@@ -39,34 +39,34 @@ Achievements/9/Name=Hướng dẫn
 Achievements/9/Description=Hoàn thành hướng dẫn.
 
 Achievements/10/Name=Thợ chế tạo
-Achievements/10/Description=Chế tạo {#Rarities/{0}/Article} cánh hoa {#Rarities/{0}/Name}.
+Achievements/10/Description=Chế tạo một cánh hoa {#Rarities/{0}/Name}.
 
 Achievements/11/Name=Thợ chế tạo
-Achievements/11/Description=Chế tạo {#Rarities/{0}/Article} cánh hoa {#Rarities/{0}/Name}.
+Achievements/11/Description=Chế tạo một cánh hoa {#Rarities/{0}/Name}.
 
 Achievements/12/Name=Thợ chế tạo
-Achievements/12/Description=Chế tạo {#Rarities/{0}/Article} cánh hoa {#Rarities/{0}/Name}.
+Achievements/12/Description=Chế tạo một cánh hoa {#Rarities/{0}/Name}.
 
 Achievements/13/Name=Thợ chế tạo
-Achievements/13/Description=Chế tạo {#Rarities/{0}/Article} cánh hoa {#Rarities/{0}/Name}.
+Achievements/13/Description=Chế tạo một cánh hoa {#Rarities/{0}/Name}.
 
 Achievements/14/Name=Thợ chế tạo
-Achievements/14/Description=Chế tạo {#Rarities/{0}/Article} cánh hoa {#Rarities/{0}/Name}.
+Achievements/14/Description=Chế tạo một cánh hoa {#Rarities/{0}/Name}.
 
 Achievements/15/Name=Thợ chế tạo
-Achievements/15/Description=Chế tạo {#Rarities/{0}/Article} cánh hoa {#Rarities/{0}/Name}.
+Achievements/15/Description=Chế tạo một cánh hoa {#Rarities/{0}/Name}.
 
 Achievements/16/Name=Thợ chế tạo
-Achievements/16/Description=Chế tạo {#Rarities/{0}/Article} cánh hoa {#Rarities/{0}/Name}.
+Achievements/16/Description=Chế tạo một cánh hoa {#Rarities/{0}/Name}.
 
 Achievements/17/Name=Giải thưởng an ủi
 Achievements/17/Description=Thất bại trong việc chế tạo cánh hoa và mất {0} cánh hoa.
 
 Achievements/18/Name=Giải thưởng an ủi
-Achievements/18/Description=Thất bại trong việc chế tạo {#Rarities/{1}/Article} cánh hoa {#Rarities/{1}/Name} và mất {0} cánh hoa.
+Achievements/18/Description=Thất bại trong việc chế tạo một cánh hoa {#Rarities/{1}/Name} và mất {0} cánh hoa.
 
 Achievements/19/Name=Giải thưởng an ủi
-Achievements/19/Description=Thất bại trong việc chế tạo {#Rarities/{1}/Article} cánh hoa {#Rarities/{1}/Name} và mất {0} cánh hoa.
+Achievements/19/Description=Thất bại trong việc chế tạo một cánh hoa {#Rarities/{1}/Name} và mất {0} cánh hoa.
 
 Achievements/20/Name=Thợ đào
 Achievements/20/Description=Trang bị một {#Petals/cutter/Name}.
@@ -198,19 +198,19 @@ Achievements/62/Name=Kẻ gieo đau thương
 Achievements/62/Description=Gây {0:tooltip} sát thương.
 
 Achievements/63/Name=Một nhát kết liễu
-Achievements/63/Description=Tiêu diệt {#Rarities/{0}/Article} con quái {#Rarities/{0}/Name} chỉ trong một nhát.
+Achievements/63/Description=Tiêu diệt một con quái {#Rarities/{0}/Name} chỉ trong một nhát.
 
 Achievements/64/Name=Một nhát kết liễu
-Achievements/64/Description=Tiêu diệt {#Rarities/{0}/Article} con quái {#Rarities/{0}/Name} chỉ trong một nhát.
+Achievements/64/Description=Tiêu diệt một con quái {#Rarities/{0}/Name} chỉ trong một nhát.
 
 Achievements/65/Name=Một nhát kết liễu
-Achievements/65/Description=Tiêu diệt {#Rarities/{0}/Article} con quái {#Rarities/{0}/Name} chỉ trong một nhát.
+Achievements/65/Description=Tiêu diệt một con quái {#Rarities/{0}/Name} chỉ trong một nhát.
 
 Achievements/66/Name=Một nhát kết liễu
-Achievements/66/Description=Tiêu diệt {#Rarities/{0}/Article} con quái {#Rarities/{0}/Name} chỉ trong một nhát.
+Achievements/66/Description=Tiêu diệt một con quái {#Rarities/{0}/Name} chỉ trong một nhát.
 
 Achievements/67/Name=Một nhát kết liễu
-Achievements/67/Description=Tiêu diệt {#Rarities/{0}/Article} con quái {#Rarities/{0}/Name} chỉ trong một nhát.
+Achievements/67/Description=Tiêu diệt một con quái {#Rarities/{0}/Name} chỉ trong một nhát.
 
 Achievements/68/Name=Cháy trong địa ngục
 Achievements/68/Description=Sinh tồn được {0:time} trong Địa ngục.
@@ -306,7 +306,7 @@ Achievements/98/Name=Vô ích
 Achievements/98/Description=Giết một con quái mà không cần gây ra bất kỳ sát thương nào.
 
 Achievements/99/Name=Vô ích
-Achievements/99/Description=Giết {#Rarities/{0}/Article} con quái {#Rarities/{0}/Name} không cần bất kỳ sát thương nào.
+Achievements/99/Description=Giết một con quái {#Rarities/{0}/Name} không cần bất kỳ sát thương nào.
 
 Achievements/100/Name=May mắn
 Achievements/100/Description=Thành công chế tạo {0} cánh hoa liên tiếp.
@@ -318,10 +318,10 @@ Achievements/102/Name=Giấy
 Achievements/102/Description=Chết bởi một cú tấn công có sát thương cao hơn máu tối đa của bạn.
 
 Achievements/103/Name=Tượng
-Achievements/103/Description=Tiêu diệt {#Rarities/{0}/Article} con quái {#Rarities/{0}/Name} mà không di chuyển.
+Achievements/103/Description=Tiêu diệt một con quái {#Rarities/{0}/Name} mà không di chuyển.
 
 Achievements/104/Name=Tượng
-Achievements/104/Description=Tiêu diệt {#Rarities/{0}/Article} con quái {#Rarities/{0}/Name} mà không di chuyển.
+Achievements/104/Description=Tiêu diệt một con quái {#Rarities/{0}/Name} mà không di chuyển.
 
 Achievements/105/Name=Hít vào, thở ra
 Achievements/105/Description=Trang bị và tháo bỏ {#Petals/{0}/Name} nhiều lần.
@@ -420,7 +420,7 @@ Achievements/136/Name=Đấng toàn tri
 Achievements/136/Description=Tạo nên một cánh hoa nhờ tri thức từ Nhà tiên tri.
 
 Achievements/137/Name=Định mệnh
-Achievements/137/Description=Chế tạo {#Rarities/{0}/Article} cánh hoa {#Rarities/{0}/Name}+ nhờ tri thức từ Nhà tiên tri.
+Achievements/137/Description=Chế tạo một cánh hoa {#Rarities/{0}/Name}+ nhờ tri thức từ Nhà tiên tri.
 
 Achievements/138/Name=Pháp sư
 Achievements/138/Description=Trang bị một {#Petals/{0}/Name}.

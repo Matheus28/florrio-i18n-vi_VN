@@ -1,44 +1,26 @@
 Rarities/common/Name=Thường Gặp
-Rarities/common/ArticleUpper=Một
-Rarities/common/Article=một
 Rarities/common/NameColored=<c val="{#Colors/common}">{#Rarities/common/Name}</c>
 
 Rarities/unusual/Name=Ít Gặp
-Rarities/unusual/ArticleUpper=Một
-Rarities/unusual/Article=một
 Rarities/unusual/NameColored=<c val="{#Colors/unusual}">{#Rarities/unusual/Name}</c>
 
 Rarities/rare/Name=Hiếm Gặp
-Rarities/rare/ArticleUpper=Một
-Rarities/rare/Article=một
 Rarities/rare/NameColored=<c val="{#Colors/rare}">{#Rarities/rare/Name}</c>
 
 Rarities/epic/Name=Sử Thi
-Rarities/epic/ArticleUpper=Một
-Rarities/epic/Article=một
 Rarities/epic/NameColored=<c val="{#Colors/epic}">{#Rarities/epic/Name}</c>
 
 Rarities/legendary/Name=Truyền Thuyết
-Rarities/legendary/ArticleUpper=Một
-Rarities/legendary/Article=một
 Rarities/legendary/NameColored=<c val="{#Colors/legendary}">{#Rarities/legendary/Name}</c>
 
 Rarities/mythic/Name=Huyền Thoại
-Rarities/mythic/ArticleUpper=Một
-Rarities/mythic/Article=một
 Rarities/mythic/NameColored=<c val="{#Colors/mythic}">{#Rarities/mythic/Name}</c>
 
 Rarities/ultra/Name=Thần Thoại
-Rarities/ultra/ArticleUpper=Một
-Rarities/ultra/Article=một
 Rarities/ultra/NameColored=<c val="{#Colors/ultra}">{#Rarities/ultra/Name}</c>
 
 Rarities/super/Name=Siêu Đẳng
-Rarities/super/ArticleUpper=Một
-Rarities/super/Article=một
 Rarities/super/NameColored=<c val="{#Colors/super}">{#Rarities/super/Name}</c>
 
 Rarities/unique/Name=Độc Nhất
-Rarities/unique/ArticleUpper=Một
-Rarities/unique/Article=một
 Rarities/unique/NameColored=<c val="{#Colors/unique}">{#Rarities/unique/Name}</c>

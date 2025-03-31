@@ -1,5 +1,5 @@
-Mobs/AnnouncementPrefix={#Rarities/{0:rarity}/ArticleUpper}{#Chat/MobSpawnType} {#Mobs/{0:base}/Name} {#Rarities/{0:rarity}/Name}
-Petals/AnnouncementPrefix={#Rarities/{0:rarity}/ArticleUpper}{#Chat/PetalCraftType} {#Petals/{0:base}/FullName} {#Rarities/{0:rarity}/Name}
+Mobs/AnnouncementPrefix=Một{#Mobs/{0:base}/Type} {#Mobs/{0:base}/Name} {#Rarities/{0:rarity}/Name}
+Petals/AnnouncementPrefix=Một{#Petals/{0:base}/Type} {#Petals/{0:base}/FullName} {#Rarities/{0:rarity}/Name}
 
 Chat/PetalCraftedUnnamed={#Chat/PetalCraftedUnnamed/{0:rarity:is-unique}}
 Chat/PetalCraftedNamed={#Chat/PetalCraftedNamed/{0:rarity:is-unique}}
@@ -7,30 +7,6 @@ Chat/PetalCraftedUnnamed/unique={#Petals/AnnouncementPrefix:0} đã được rè
 Chat/PetalCraftedNamed/unique={#Petals/AnnouncementPrefix:0} đã được rèn bởi {1}!
 Chat/PetalCraftedUnnamed/not-unique={#Petals/AnnouncementPrefix:0} đã được chế tạo!
 Chat/PetalCraftedNamed/not-unique={#Petals/AnnouncementPrefix:0} đã được chế tạo bởi {1}!
-
-Chat/MobSpawnType={#Classify/Mob/{#Mobs/{0:base}/Type}}
-Chat/PetalCraftType={#Classify/Petal/{#Petals/{0:base}/Type}}
-
-Classify/Mob/plant= cây
-Classify/Mob/static= cái
-Classify/Mob/sphere= quả
-Classify/Mob/moveable= con
-
-Classify/Petal/petal= cánh hoa
-Classify/Petal/plant= cây
-Classify/Petal/thing1= cái
-Classify/Petal/thing2= con
-Classify/Petal/sphere= quả
-Classify/Petal/bunch1= chùm
-Classify/Petal/bunch2= đống
-Classify/Petal/block1= tảng
-Classify/Petal/block2= khối
-Classify/Petal/block3= cục
-Classify/Petal/flat1= tấm
-Classify/Petal/flat2= mảnh
-Classify/Petal/seed= hạt
-Classify/Petal/tubber= củ
-Classify/Petal/leaf= chiếc
 
 Chat/PetalFoundUnnamed={#Chat/PetalFoundUnnamed/{0:base}#Chat/PetalFoundUnnamed/generic}
 Chat/PetalFoundNamed={#Chat/PetalFoundNamed/{0:base}#Chat/PetalFoundNamed/generic}

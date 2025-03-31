@@ -7,37 +7,37 @@ Mobs/cactus/Name=Xương Rồng
 Mobs/cactus/SortName=x*0u+0o-0n*0g*0 r*0o+2n*0g*0
 Mobs/cactus/Description=Tránh chạm vào nó, nó đau lắm.
 Mobs/cactus/Spawn=Một tòa tháp gai mọc lên từ bãi cát...
-Mobs/cactus/Type=plant
+Mobs/cactus/Clf= cây
 
 Mobs/ladybug/Name=Bọ Rùa
 Mobs/ladybug/SortName=b*0o*5 r*0u*2a*0
 Mobs/ladybug/Description=Dễ thương và vô hại.
-Mobs/ladybug/Type=moveable
+Mobs/ladybug/Clf= con
 
 Mobs/bee/Name=Ong
 Mobs/bee/SortName=o*0n*0g*0
 Mobs/bee/Description=Nó đốt đấy. Đừng chạm vào nó.
-Mobs/bee/Type=moveable
+Mobs/bee/Clf= con
 
 Mobs/ant_baby/Name=Kiến Con
 Mobs/ant_baby/SortName=k*0i*0e+1n*0 c*0o*0n*0
 Mobs/ant_baby/Description=Yếu đuối và không có khả năng tự vệ, nhưng có những ước mơ lớn.
-Mobs/ant_baby/Type=moveable
+Mobs/ant_baby/Clf= con
 
 Mobs/ant_worker/Name=Kiến Thợ
 Mobs/ant_worker/SortName=k*0i*0e+1n*0 t*0h*0o-5
 Mobs/ant_worker/Description=Tính tình hơi thất thường, có lẽ vì làm việc quá nhiều.
-Mobs/ant_worker/Type=moveable
+Mobs/ant_worker/Clf= con
 
 Mobs/ant_soldier/Name=Kiến Đực
 Mobs/ant_soldier/SortName=k*0i*0e+1n*0 d+0u+5c*0
 Mobs/ant_soldier/Description=Nó có cánh và sẵn sàng sử dụng chúng.
-Mobs/ant_soldier/Type=moveable
+Mobs/ant_soldier/Clf= con
 
 Mobs/ant_queen/Name=Kiến Chúa
 Mobs/ant_queen/SortName=k*0i*0e+1n*0 c*0h*0u*1a*0
 Mobs/ant_queen/Description=Chắc hẳn bạn đã làm gì đó rất tệ nếu cô ấy đang đuổi bạn.
-Mobs/ant_queen/Type=moveable
+Mobs/ant_queen/Clf= con
 
 Mobs/ant_hole/Name=Tổ Kiến
 Mobs/ant_hole/SortName=t*0o+3 k*0i*0e+1n*0
@@ -46,43 +46,43 @@ Mobs/ant_hole/Description=Kiến vào, rồi lại ra. Không ai có thể giả
 Mobs/beetle/Name=Bọ Cánh Cứng
 Mobs/beetle/SortName=b*0o*5 c*0a*1n*0h*0 c*0u+1n*0g*0
 Mobs/beetle/Description=Nó đói và hoa là bữa ăn yêu thích của nó.
-Mobs/beetle/Type=moveable
+Mobs/beetle/Clf= con
 
 Mobs/hornet/Name=Ong Bắp Cày
 Mobs/hornet/SortName=o*0n*0g*0 b*0a+1p*0 c*0a*2y*0
 Mobs/hornet/Description=Những con này không dễ chịu như ong nhỏ đâu.
 Mobs/hornet/Spawn=Một đốm vàng lớn xuất hiện ở đằng xa...
-Mobs/hornet/Type=moveable
+Mobs/hornet/Clf= con
 
 Mobs/centipede/Name=Rết
 Mobs/centipede/SortName=r*0e+1t*0
 Mobs/centipede/Description=Nó chỉ đang làm việc của mình thôi.
-Mobs/centipede/Type=moveable
+Mobs/centipede/Clf= con
 
 Mobs/centipede_body/Name=Rết
 Mobs/centipede_body/SortName=r*0e+1t*0
 Mobs/centipede_body/Description=Nó chỉ đang làm việc của mình thôi.
-Mobs/centipede_body/Type=moveable
+Mobs/centipede_body/Clf= con
 
 Mobs/centipede_evil/Name=Rết
 Mobs/centipede_evil/SortName=r*0e+1t*0
 Mobs/centipede_evil/Description=Con này rất thích hoa.
-Mobs/centipede_evil/Type=moveable
+Mobs/centipede_evil/Clf= con
 
 Mobs/centipede_evil_body/Name=Rết
 Mobs/centipede_evil_body/SortName=r*0e+1t*0
 Mobs/centipede_evil_body/Description=Con này rất thích hoa.
-Mobs/centipede_evil_body/Type=moveable
+Mobs/centipede_evil_body/Clf= con
 
 Mobs/centipede_desert/Name=Rết
 Mobs/centipede_desert/SortName=r*0e+1t*0
 Mobs/centipede_desert/Description=Chạy ngay đi...
-Mobs/centipede_desert/Type=moveable
+Mobs/centipede_desert/Clf= con
 
 Mobs/centipede_desert_body/Name=Rết
 Mobs/centipede_desert_body/SortName=r*0e+1t*0
 Mobs/centipede_desert_body/Description=Chạy ngay đi...
-Mobs/centipede_desert_body/Type=moveable
+Mobs/centipede_desert_body/Clf= con
 
 Mobs/square/Name=Hình Vuông
 Mobs/square/SortName=h*0i*2n*0h*0 v*0u*0o+0n*0g*0
@@ -91,27 +91,27 @@ Mobs/square/Description=Hình dạng này... nhìn quen quá...
 Mobs/ladybug_dark/Name=Bọ Rùa
 Mobs/ladybug_dark/SortName=b*0o*5 r*0u*2a*0
 Mobs/ladybug_dark/Description=Dễ thương và vô hại... nếu không bị khiêu khích.
-Mobs/ladybug_dark/Type=moveable
+Mobs/ladybug_dark/Clf= con
 
 Mobs/ladybug_shiny/Name=Bọ Rùa
 Mobs/ladybug_shiny/SortName=b*0o*5 r*0u*2a*0
 Mobs/ladybug_shiny/Description=Óng ánh, dễ thương và phần lớn là vô hại.
-Mobs/ladybug_shiny/Type=moveable
+Mobs/ladybug_shiny/Clf= con
 
 Mobs/spider/Name=Nhện
 Mobs/spider/SortName=n*0h*0e+5n*0
 Mobs/spider/Description=Đáng sợ.
-Mobs/spider/Type=moveable
+Mobs/spider/Clf= con
 
 Mobs/scorpion/Name=Bọ Cạp
 Mobs/scorpion/SortName=b*0o*5 c*0a*5p*0
 Mobs/scorpion/Description=CẨN THẬN BỊ CHÍCH!
-Mobs/scorpion/Type=moveable
+Mobs/scorpion/Clf= con
 
 Mobs/fire_ant_soldier/Name=Kiến Lửa Đực
 Mobs/fire_ant_soldier/SortName=k*0i*0e+1n*0 l*0u+3a*0 d+0u+5c*0
 Mobs/fire_ant_soldier/Description=Con kiến này đang bùng cháyyyyyyyy.
-Mobs/fire_ant_soldier/Type=moveable
+Mobs/fire_ant_soldier/Clf= con
 
 Mobs/fire_ant_burrow/Name=Tổ Kiến Lửa
 Mobs/fire_ant_burrow/SortName=t*0o+3 k*0i*0e+1n*0 l*0u+3a*0
@@ -124,33 +124,33 @@ Mobs/sandstorm/Description=Darude - Sandstorm (1999) (một tác phẩm âm nh�
 Mobs/bubble/Name=Bong Bóng
 Mobs/bubble/SortName=b*0o*0n*0g*0 b*0o*1n*0g*0
 Mobs/bubble/Description=Pop
-Mobs/bubble/Type=sphere
+Mobs/bubble/Clf= quả
 
 Mobs/bumble_bee/Name=Ong Nghệ
 Mobs/bumble_bee/SortName=o*0n*0g*0 n*0g*0h*0e+5
 Mobs/bumble_bee/Description=CHẠY NGAY ĐI.
-Mobs/bumble_bee/Type=moveable
+Mobs/bumble_bee/Clf= con
 
 Mobs/shell/Name=Sò
 Mobs/shell/SortName=s*0o*2
 Mobs/shell/Description=Đây không phải là chương trình quảng cáo.
-Mobs/shell/Type=moveable
+Mobs/shell/Clf= con
 
 Mobs/starfish/Name=Sao Biển
 Mobs/starfish/SortName=s*0a*0o*0 b*0i*0e+3n*0
 Mobs/starfish/Description=Tên của nó là Patrick.
-Mobs/starfish/Type=moveable
+Mobs/starfish/Clf= con
 
 Mobs/crab/Name=Cua
 Mobs/crab/SortName=c*0u*0a*0
 Mobs/crab/Description=Mr. Crab.
-Mobs/crab/Type=moveable
+Mobs/crab/Clf= con
 
 Mobs/jellyfish/Name=Sứa
 Mobs/jellyfish/SortName=s*0u+1a*0
 Mobs/jellyfish/Description=Làm loại mứt ngon nhất.
 Mobs/jellyfish/Spawn=Bạn nghe thấy tiếng sấm sét từ đằng xa...
-Mobs/jellyfish/Type=moveable
+Mobs/jellyfish/Clf= con
 
 Mobs/digger/Name=Thợ Đào
 Mobs/digger/SortName=t*0h*0o-5 d+0a*2o*0
@@ -159,82 +159,82 @@ Mobs/digger/Description=Nhầm game rồi, bạn à.
 Mobs/sponge/Name=Bọt Biển
 Mobs/sponge/SortName=b*0o*5t*0 b*0i*0e+3n*0
 Mobs/sponge/Description=Bob.
-Mobs/sponge/Type=static
+Mobs/sponge/Clf= cái
 
 Mobs/leech/Name=Đỉa
 Mobs/leech/SortName=d+0i*3a*0
 Mobs/leech/Description=Soạp soạp.
-Mobs/leech/Type=moveable
+Mobs/leech/Clf= con
 
 Mobs/leech_body/Name=Đỉa
 Mobs/leech_body/SortName=d+0i*3a*0
 Mobs/leech_body/Description=Soạp soạp.
-Mobs/leech_body/Type=moveable
+Mobs/leech_body/Clf= con
 
 Mobs/dandelion/Name=Bồ Công Anh
 Mobs/dandelion/SortName=b*0o+2 c*0o+0n*0g*0 a*0n*0h*0
 Mobs/dandelion/Description=Mềm mại.
-Mobs/dandelion/Type=plant
+Mobs/dandelion/Clf= cây
 
 Mobs/fire_ant_baby/Name=Kiến Lửa Con
 Mobs/fire_ant_baby/SortName=k*0i*0e+1n*0 l*0u+3a*0 c*0o*0n*0
 Mobs/fire_ant_baby/Description=Con kiến này đang bùng cháyyyyyyyy.
-Mobs/fire_ant_baby/Type=moveable
+Mobs/fire_ant_baby/Clf= con
 
 Mobs/fire_ant_worker/Name=Kiến Lửa Thợ
 Mobs/fire_ant_worker/SortName=k*0i*0e+1n*0 l*0u+3a*0 t*0h*0o-5
 Mobs/fire_ant_worker/Description=Con kiến này đang bùng cháyyyyyyyy.
-Mobs/fire_ant_worker/Type=moveable
+Mobs/fire_ant_worker/Clf= con
 
 Mobs/fire_ant_queen/Name=Kiến Lửa Chúa
 Mobs/fire_ant_queen/SortName=k*0i*0e+1n*0 l*0u+3a*0 c*0h*0u*1a*0
 Mobs/fire_ant_queen/Description=Con kiến này đang bùng cháyyyyyyyy.
-Mobs/fire_ant_queen/Type=moveable
+Mobs/fire_ant_queen/Clf= con
 
 Mobs/ant_egg/Name=Trứng Kiến
 Mobs/ant_egg/SortName=t*0r*0u+1n*0g*0 k*0i*0e+1n*0
 Mobs/ant_egg/Description=Chưa là kiến nhưng có thể sắp thành.
-Mobs/ant_egg/Type=sphere
+Mobs/ant_egg/Clf= quả
 
 Mobs/fire_ant_egg/Name=Trứng Kiến Lửa
 Mobs/fire_ant_egg/SortName=t*0r*0u+1n*0g*0 k*0i*0e+1n*0 l*0u+3a*0
 Mobs/fire_ant_egg/Description=Con kiến này chưa bùng cháy.
-Mobs/fire_ant_egg/Type=sphere
+Mobs/fire_ant_egg/Clf= quả
 
 Mobs/fly/Name=Ruồi
 Mobs/fly/SortName=r*0u*0o+2i*0
 Mobs/fly/Description=Hzzzzzzzzzzzz.
-Mobs/fly/Type=moveable
+Mobs/fly/Clf= con
 
 Mobs/leafbug/Name=Bọ Lá
 Mobs/leafbug/SortName=b*0o*5 l*0a*1
 Mobs/leafbug/Description=Con này là bọ, chứ không phải lá.
-Mobs/leafbug/Type=moveable
+Mobs/leafbug/Clf= con
 
 Mobs/mantis/Name=Bọ Ngựa
 Mobs/mantis/SortName=b*0o*5 n*0g*0u+5a*0
 Mobs/mantis/Description=Tốt nhất là cầu nguyện bạn không trở thành bữa tối.
-Mobs/mantis/Type=moveable
+Mobs/mantis/Clf= con
 
 Mobs/termite_baby/Name=Mối Con
 Mobs/termite_baby/SortName=m*0o+1i*0 c*0o*0n*0
 Mobs/termite_baby/Description=Yếu đuối và không có khả năng tự vệ, nhưng có những ước mơ lớn.<n/>Những sinh vật này dường như có mối liên kết nào đó.
-Mobs/termite_baby/Type=moveable
+Mobs/termite_baby/Clf= con
 
 Mobs/termite_worker/Name=Mối Thợ
 Mobs/termite_worker/SortName=m*0o+1i*0 t*0h*0o-5
 Mobs/termite_worker/Description=Tính tình hơi thất thường, có lẽ vì làm việc quá nhiều.<n/>Những sinh vật này dường như có mối liên kết nào đó.
-Mobs/termite_worker/Type=moveable
+Mobs/termite_worker/Clf= con
 
 Mobs/termite_soldier/Name=Mối Lính
 Mobs/termite_soldier/SortName=m*0o+1i*0 l*0i*1n*0h*0
 Mobs/termite_soldier/Description=Nó có cánh và sẵn sàng sử dụng chúng.<n/>Những sinh vật này dường như có mối liên kết nào đó.
-Mobs/termite_soldier/Type=moveable
+Mobs/termite_soldier/Clf= con
 
 Mobs/termite_overmind/Name=Chúa Tể Mối
 Mobs/termite_overmind/SortName=c*0h*0u*1a*0 t*0e+3 m*0o+1i*0
 Mobs/termite_overmind/Description=Người giám sát tất cả.
-Mobs/termite_overmind/Type=moveable
+Mobs/termite_overmind/Clf= con
 
 Mobs/termite_mound/Name=Tổ Mối
 Mobs/termite_mound/SortName=t*0o+3 m*0o+1i*0
@@ -243,7 +243,7 @@ Mobs/termite_mound/Description=Mối vào, rồi lại ra. Không ai có thể g
 Mobs/termite_egg/Name=Trứng Mối
 Mobs/termite_egg/SortName=t*0r*0u+1n*0g*0 m*0o+1i*0
 Mobs/termite_egg/Description=Chưa là mối nhưng có thể sắp thành.
-Mobs/termite_egg/Type=sphere
+Mobs/termite_egg/Clf= quả
 
 Mobs/bush/Name=Bụi Cây
 Mobs/bush/SortName=b*0u*5i*0 c*0a-0y*0
@@ -252,29 +252,29 @@ Mobs/bush/Description=Đừng đánh giá thấp tôi.
 Mobs/roach/Name=Gián
 Mobs/roach/SortName=g*0i*0a*1n*0
 Mobs/roach/Description=Phải chạy thật nhanh... cho đến khi chúng mệt.
-Mobs/roach/Type=moveable
+Mobs/roach/Clf= con
 
 Mobs/moth/Name=Bướm Đêm
 Mobs/moth/SortName=b*0u+0o-1m*0 d+0e+0m*0
 Mobs/moth/Description=Dễ bị hoảng sợ, hãy tử tế.
-Mobs/moth/Type=moveable
+Mobs/moth/Clf= con
 
 Mobs/firefly/Name=Đom Đóm
 Mobs/firefly/SortName=d+0o*0m*0 d+0o*1m*0
 Mobs/firefly/Description=Ồ... lấp lánh.
 Mobs/firefly/Spawn=Có tia ánh sáng rực rỡ từ phía chân trời...
-Mobs/firefly/Type=moveable
+Mobs/firefly/Clf= con
 
 Mobs/beetle_hel/Name=Bọ Cánh Cứng
 Mobs/beetle_hel/SortName=b*0o*5 c*0a*1n*0h*0 c*0u+1n*0g*0
 Mobs/beetle_hel/Description=Một tai họa xuất hiện từ cõi khác.
 Mobs/beetle_hel/Spawn=Bạn cảm thấy những rung động kỳ lạ từ một chiều không gian khác...
-Mobs/beetle_hel/Type=moveable
+Mobs/beetle_hel/Clf= con
 
 Mobs/wasp/Name=Tò Vò
 Mobs/wasp/SortName=t*0o*2 v*0o*2
 Mobs/wasp/Description=Chúng rất GIẬN DỮ.
-Mobs/wasp/Type=moveable
+Mobs/wasp/Clf= con
 
 Mobs/dummy/Name=Người Nộm
 Mobs/dummy/SortName=n*0g*0u+0o-2i*0 n*0o+5m*0
@@ -284,25 +284,25 @@ Mobs/spider_hel/Name=Nhện
 Mobs/spider_hel/SortName=n*0h*0e+5n*0
 Mobs/spider_hel/Description=Một tai họa xuất hiện từ cõi khác.
 Mobs/spider_hel/Spawn=Bạn cảm thấy những rung động kỳ lạ từ một chiều không gian khác...
-Mobs/spider_hel/Type=moveable
+Mobs/spider_hel/Clf= con
 
 Mobs/centipede_hel/Name=Rết
 Mobs/centipede_hel/SortName=r*0e+1t*0
 Mobs/centipede_hel/Description=Một tai họa xuất hiện từ cõi khác.
 Mobs/centipede_hel/Spawn=Bạn cảm thấy những rung động kỳ lạ từ một chiều không gian khác...
-Mobs/centipede_hel/Type=moveable
+Mobs/centipede_hel/Clf= con
 
 Mobs/centipede_hel_body/Name=Rết
 Mobs/centipede_hel_body/SortName=r*0e+1t*0
 Mobs/centipede_hel_body/Description=Một tai họa xuất hiện từ cõi khác.
 Mobs/centipede_hel_body/Spawn=Bạn cảm thấy những rung động kỳ lạ từ một chiều không gian khác...
-Mobs/centipede_hel_body/Type=moveable
+Mobs/centipede_hel_body/Clf= con
 
 Mobs/wasp_hel/Name=Tò Vò
 Mobs/wasp_hel/SortName=t*0o*2 v*0o*2
 Mobs/wasp_hel/Description=Một tai họa xuất hiện từ cõi khác.
 Mobs/wasp_hel/Spawn=Bạn cảm thấy những rung động kỳ lạ từ một chiều không gian khác...
-Mobs/wasp_hel/Type=moveable
+Mobs/wasp_hel/Clf= con
 
 Mobs/trader/Name=Thương Nhân
 Mobs/trader/SortName=t*0h*0u+0o-0n*0g*0 n*0h*0a-0n*0
@@ -320,7 +320,7 @@ Mobs/oracle/Description=
 Mobs/firefly_magic/Name=Đom Đóm
 Mobs/firefly_magic/SortName=d+0o*0m*0 d+0o*1m*0
 Mobs/firefly_magic/Description=Có điều gì đó kỳ diệu trong con này.
-Mobs/firefly_magic/Type=moveable
+Mobs/firefly_magic/Clf= con
 
 Mobs/titan/Name=Titan
 Mobs/titan/SortName=t*0i*0t*0a*0n*0
@@ -329,42 +329,42 @@ Mobs/titan/Description=
 Mobs/beetle_nazar/Name=Bọ Cánh Cứng
 Mobs/beetle_nazar/SortName=b*0o*5 c*0a*1n*0h*0 c*0u+1n*0g*0
 Mobs/beetle_nazar/Description=Con này có một hoa văn kì lạ... không biết có gì trong đó nhỉ?
-Mobs/beetle_nazar/Type=moveable
+Mobs/beetle_nazar/Clf= con
 
 Mobs/worm/Name=Giun
 Mobs/worm/SortName=g*0i*0u*0n*0
 Mobs/worm/Description=Đúng ra nó phải ăn đất, nhưng con này có vẻ thích ăn hoa hơn.
-Mobs/worm/Type=moveable
+Mobs/worm/Clf= con
 
 Mobs/worm_guts/Name=Ruột Giun
 Mobs/worm_guts/SortName=r*0u*0o+5t*0 g*0i*0u*0n*0
 Mobs/worm_guts/Description=Bạn không được phép nhìn thấy văn bản này. Tôi sẽ báo chính quyền.
-Mobs/worm_guts/Type=static
+Mobs/worm_guts/Clf= cái
 
 Mobs/mecha_flower/Name=Hoa Máy
 Mobs/mecha_flower/SortName=h*0o*0a*0 m*0a*1y*0
 Mobs/mecha_flower/Description=Có người đã làm ra những bông hoa cơ khí này... Bạn nghĩ là ai?
-Mobs/mecha_flower/Type=plant
+Mobs/mecha_flower/Clf= cây
 
 Mobs/wasp_mecha/Name=Tò Vò Máy
 Mobs/wasp_mecha/SortName=o*0n*0g*0 b*0a+1p*0 c*0a*2y*0
 Mobs/wasp_mecha/Description=Chúng đang TỨC GIẬN, BEEP BEEP.
-Mobs/wasp_mecha/Type=moveable
+Mobs/wasp_mecha/Clf= con
 
 Mobs/spider_mecha/Name=Nhện
 Mobs/spider_mecha/SortName=n*0h*0e+5n*0
 Mobs/spider_mecha/Description=Một con nhện máy đáng sợ.
-Mobs/spider_mecha/Type=moveable
+Mobs/spider_mecha/Clf= con
 
 Mobs/leafbug_shiny/Name=Bọ Lá
 Mobs/leafbug_shiny/SortName=b*0o*5 l*0a*1
 Mobs/leafbug_shiny/Description=Con này có màu khá là đặc biệt...
-Mobs/leafbug_shiny/Type=moveable
+Mobs/leafbug_shiny/Clf= con
 
 Mobs/crab_mecha/Name=Cua
 Mobs/crab_mecha/SortName=c*0u*0a*0
 Mobs/crab_mecha/Description=Dr. Crab.
-Mobs/crab_mecha/Type=moveable
+Mobs/crab_mecha/Clf= con
 
 Mobs/assembler/Name=Máy Lắp Ráp
 Mobs/assembler/Description=
@@ -372,19 +372,19 @@ Mobs/assembler/Description=
 Mobs/barrel/Name=Thùng
 Mobs/barrel/SortName=t*0h*0u*2n*0g*0
 Mobs/barrel/Description=Dù trong bất kỳ hoàn cảnh nào cũng không được để thứ này tràn ra.<n/>Chúng ta không thể gây nguy cơ tạo thêm côn trùng đột biến nữa trong tháng này.
-Mobs/barrel/Type=static
+Mobs/barrel/Clf= cái
 
 Mobs/beetle_mummy/Name=Bọ Cánh Cứng
 Mobs/beetle_mummy/SortName=b*0o*5 c*0a*1n*0h*0 c*0u+1n*0g*0
 Mobs/beetle_mummy/Description=Có vẻ như con này không nên còn sống nữa...
-Mobs/beetle_mummy/Type=moveable
+Mobs/beetle_mummy/Clf= con
 
 Mobs/beetle_pharaoh/Name=Bọ Cánh Cứng
 Mobs/beetle_pharaoh/SortName=b*0o*5 c*0a*1n*0h*0 c*0u+1n*0g*0
 Mobs/beetle_pharaoh/Description=Cái thứ trên đầu nó trông có vẻ quý giá... Chúng ta nên lấy nó.
-Mobs/beetle_pharaoh/Type=moveable
+Mobs/beetle_pharaoh/Clf= con
 
 Mobs/tomb/Name=Mộ
 Mobs/tomb/SortName=t*0o*0m*0b*0
 Mobs/tomb/Description=Hừm, trong này có gì nhỉ?
-Mobs/tomb/Type=static
+Mobs/tomb/Clf= cái
