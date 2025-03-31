@@ -20,6 +20,7 @@ Petals/square/Name=Vuông
 Petals/square/SortName=v*0u*0o+0n*0g*0
 Petals/square/FullName=Hình Vuông
 Petals/square/Description=Hình dạng này... nhìn quen quá...
+Petals/square/Type=thing1
 
 Petals/rose/Name=Hồng
 Petals/rose/SortName=h*0o+2n*0g*0
@@ -633,5 +634,18 @@ Petals/bandage/Type=thing1
 
 Petals/crown/Name=Vương Miện
 Petals/crown/FullName=Vương Miện của Pharaoh
+Petals/crown/SortName=v*0u+0o-0n*0g*0 m*0i*0e+5n*0
 Petals/crown/Description=Triệu hồi những con Bọ Cánh Cứng <c val="{#Colors/undead}">Xác Sống</c> để sát cánh cùng bạn.
 Petals/crown/Type=thing1
+
+Petals/totem/Name=Vật Tổ
+Petals/totem/FullName=Vật Tổ
+Petals/totem/SortName=v*0a-5t*0 t*0o+3
+Petals/totem/Description=Hồi phục máu trong một khoảng thời gian nhất định sau khi giết quái.
+Petals/totem/Type=thing1
+
+Petals/triangle/Name=Tam Giác
+Petals/triangle/FullName=Tam Giác
+Petals/triangle/SortName=t*0a*0m*0 g*0i*0a*1c*0
+Petals/triangle/Description=Mỗi bản sao của nó được trang bị sẽ tăng thêm sát thương cho nó.
+Petals/triangle/Type=thing1

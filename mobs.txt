@@ -378,3 +378,13 @@ Mobs/beetle_mummy/Name=Bọ Cánh Cứng
 Mobs/beetle_mummy/SortName=b*0o*5 c*0a*1n*0h*0 c*0u+1n*0g*0
 Mobs/beetle_mummy/Description=Có vẻ như con này không nên còn sống nữa...
 Mobs/beetle_mummy/Type=moveable
+
+Mobs/beetle_pharaoh/Name=Bọ Cánh Cứng
+Mobs/beetle_pharaoh/SortName=b*0o*5 c*0a*1n*0h*0 c*0u+1n*0g*0
+Mobs/beetle_pharaoh/Description=Cái thứ trên đầu nó trông có vẻ quý giá... Chúng ta nên lấy nó.
+Mobs/beetle_pharaoh/Type=moveable
+
+Mobs/tomb/Name=Mộ
+Mobs/tomb/SortName=t*0o*0m*0b*0
+Mobs/tomb/Description=Hừm, trong này có gì nhỉ?
+Mobs/tomb/Type=static
