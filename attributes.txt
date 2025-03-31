@@ -51,6 +51,7 @@ Petal/Attribute/Damage/Lightning=<c val="{#Colors/damage}">Sát Thương:</c> {0
 Petal/Attribute/DamageRange=<c val="{#Colors/damage}">Phạm Vi Sát Thương:</c> {0:tooltip}~{1:tooltip}
 Petal/Attribute/DamagePerSecond=<c val="{#Colors/damage}">Sát thương:</c> {0:tooltip}/giây
 Petal/Attribute/DamagePerSecond/Lightning=<c val="{#Colors/damage}">Sát thương:</c> {0:tooltip}/giây <c val="{#Colors/lightning}">(điện)</c>
+Petal/Attribute/DamagePlusPerPetal=<c val="{#Colors/damage}">Sát thương:</c> {0:tooltip} + {1:tooltip} mỗi {#Petals/{2:base}/FullName} ({#Rarities/{2:rarity}/NameColored})
 Petal/Attribute/Armor=<c val="{#Colors/armor}">Giáp:</c> {0:tooltip}
 Petal/Attribute/RotationSpeed=<c val="{#Colors/generic}">Tốc Độ Quay:</c> +{0:tooltip} rad/giây
 Petal/Attribute/Heal=<c val="{#Colors/heal}">Trị Liệu:</c> {0:tooltip}
@@ -119,3 +120,4 @@ Petal/Attribute/Controls=<c val="{#Colors/generic}">Điều khiển:</c> {#Petal
 Petal/Attribute/Broken=<c val="{#Colors/danger}">Bị hỏng.</c>
 Petal/Attribute/UndeadDuration=<c val="{#Colors/undead}">Xác Sống:</c> {0:tooltipTime}
 Petal/Attribute/UnrevivableDuration=<c val="{#Colors/danger}">Không Thể Hồi Sinh:</c> {0:tooltipTime}
+Petal/Attribute/BodyDamageReduction=<c val="{#Colors/damage}">Sát Thương Cơ Thể:</c> -{0:perc}%
