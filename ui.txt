@@ -299,6 +299,8 @@ UI/Settings/InvertDefend=Đảo ngược nút phòng thủ
 UI/Settings/AutoSaveLoadout=Tự động lưu trang bị
 UI/Settings/AutoSaveLoadout/Help=Nếu tắt, ấn [O] để lưu trang bị hiện tại
 
+UI/Settings/Fullscreen=Toàn màn hình 
+
 UI/Settings/PrivacyPolicy=Chính sách Bảo mật
 UI/Settings/TermsOfService=Điều khoản Dịch vụ
 
