@@ -29,7 +29,7 @@ Achievements/6/ExtraDescription=Sử dụng điểm Thiên phú mới bạn vừ
 
 Achievements/7/Name=Hướng dẫn
 Achievements/7/Description=Thu thập thêm cánh hoa.
-Achievements/7/ExtraDescription=Bây giờ chúng ta cần thu thập {0} cánh hoa {#Rarities/{1}/NameColored} cùng loại để chế tạo một cánh hoa {#Rarities/{2}/NameColored}.<n/>Tiếp tục tiêu diệt các con côn trùng để thu thập thêm thêm cánh hoa.
+Achievements/7/ExtraDescription=Bây giờ chúng ta cần thu thập {0} cánh hoa {#Rarities/{1}/NameColored} cùng loại để chế tạo một cánh hoa {#Rarities/{2}/NameColored}.<n/>Tiếp tục tiêu diệt các con côn trùng để thu thập thêm cánh hoa.
 
 Achievements/8/Name=Hướng dẫn
 Achievements/8/Description=Chế tạo một cánh hoa.
